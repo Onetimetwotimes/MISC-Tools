@@ -1,0 +1,7 @@
+c:\users\onetimetwotimes\Source\repos\rmRedSubDir\rmRedSubDir\bin\Debug\rmRedSubDir.exe.config
+c:\users\onetimetwotimes\Source\repos\rmRedSubDir\rmRedSubDir\bin\Debug\rmRedSubDir.exe
+c:\users\onetimetwotimes\Source\repos\rmRedSubDir\rmRedSubDir\bin\Debug\rmRedSubDir.pdb
+c:\users\onetimetwotimes\Source\repos\rmRedSubDir\rmRedSubDir\obj\Debug\rmRedSubDir.csprojAssemblyReference.cache
+c:\users\onetimetwotimes\Source\repos\rmRedSubDir\rmRedSubDir\obj\Debug\rmRedSubDir.csproj.CoreCompileInputs.cache
+c:\users\onetimetwotimes\Source\repos\rmRedSubDir\rmRedSubDir\obj\Debug\rmRedSubDir.exe
+c:\users\onetimetwotimes\Source\repos\rmRedSubDir\rmRedSubDir\obj\Debug\rmRedSubDir.pdb

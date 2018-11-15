@@ -1,0 +1,7 @@
+c:\users\onetimetwotimes\Source\repos\CreateVolumes\CreateVolumes\bin\Debug\CreateVolumes.exe.config
+c:\users\onetimetwotimes\Source\repos\CreateVolumes\CreateVolumes\bin\Debug\CreateVolumes.exe
+c:\users\onetimetwotimes\Source\repos\CreateVolumes\CreateVolumes\bin\Debug\CreateVolumes.pdb
+c:\users\onetimetwotimes\Source\repos\CreateVolumes\CreateVolumes\obj\Debug\CreateVolumes.csprojAssemblyReference.cache
+c:\users\onetimetwotimes\Source\repos\CreateVolumes\CreateVolumes\obj\Debug\CreateVolumes.csproj.CoreCompileInputs.cache
+c:\users\onetimetwotimes\Source\repos\CreateVolumes\CreateVolumes\obj\Debug\CreateVolumes.exe
+c:\users\onetimetwotimes\Source\repos\CreateVolumes\CreateVolumes\obj\Debug\CreateVolumes.pdb
